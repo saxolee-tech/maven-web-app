@@ -1,2 +1,2 @@
 # maven-web-app
-Jenkin CICD Implementation Sample Demo
+Jenkin CICD Implementation of Build and Deployment Process Demo
